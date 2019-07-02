@@ -1,0 +1,61 @@
+body {
+	background: url(../img/math-background.jpg);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  border: 3px solid #9932CC;
+  margin-right: 100px;
+  text-align: center;
+  margin-left: 100px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px 16px;
+  text-decoration: none;
+  color: #00FF00;
+  font-size: x-large;
+
+}
+
+li a:hover {
+  background-color:	#9932CC;
+}
+div {
+	background-color: black;
+	height: 730px;
+  	width: 800px;
+  	color: #9932CC;
+  	margin-top: 50px;
+  	margin-left: 100px;
+  	margin-right: 100px;
+  	border: 3px solid #9932CC;
+
+}
+h1{
+	background: black;
+	color: white;
+	border: 3px solid #9932CC;
+	text-align: center;
+	height: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+}
+.body{
+	background-color: black;
+	height: 730px;
+  	width: 800px;
+  	float: right;
+
+}
